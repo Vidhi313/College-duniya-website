@@ -16,8 +16,8 @@ You may also see any lint errors in the console.
 
 ### Deployment Site   
 this is domain to  visit the website  here: https://college-duniya-website.vercel.app/
-### video 
-This section has moved here: file:///C:/Users/ASUS/Videos/Captures/React%20App%20-%20Profile%201%20-%20Microsoft%E2%80%8B%20Edge%202023-12-31%2017-07-05.mp4
+### Demo Video 
+https://github.com/Vidhi313/College-duniya-website/assets/136977278/833e0f1d-cd45-4017-aa37-dc70cdf2e4ef
 
 
 
